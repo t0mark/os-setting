@@ -119,7 +119,7 @@ alias go2='ssh -L 59000:localhost:5901 -C -N -l unitree 192.168.0.6'
 ## VS Code ssh 설정
 ```
 Host 창조2관_NPU_서버
-  HostName 172.25.185.15
+  HostName 113.198.65.72
   User jairlab
   Port 22015
 
